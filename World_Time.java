@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class World_Time {
 
     public static void main(String[] args) {
-        // Display welcome message
+        
         System.out.println("*************************** Welcome to World Clock *************************** ");
         System.out.println("This world clock converts the time from source city to destination city for you ");
 
-        // Initialize scanner for user input
+        
         Scanner sc = new Scanner(System.in);
         
         // Arrays for city names and time differences
