@@ -1,1 +1,2 @@
 # Project3
+The "World Time Converter" Java program allows users to input their source and destination cities, along with a specific time in 24-hour format. The program calculates the time difference between the cities based on predefined city time offsets, adjusts for the 24-hour clock, and displays the converted time in the destination city. Users are guided through input validation, ensuring accurate results. This code can be used to create a world clock tool for quickly comparing times between different cities.
